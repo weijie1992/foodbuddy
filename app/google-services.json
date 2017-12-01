@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "608180303975",
+    "firebase_url": "https://hciproject-2c779.firebaseio.com",
+    "project_id": "hciproject-2c779",
+    "storage_bucket": "hciproject-2c779.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608180303975:android:f5885fb1012d03c6",
+        "android_client_info": {
+          "package_name": "com.example.sumit.chartandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608180303975-kq4p0bundmlbgr6kh5tnl5nttjl4r791.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVV2qg--3ywDV9GoQj86F_1ssRBh66XsE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608180303975:android:775d2b24f9a2948d",
+        "android_client_info": {
+          "package_name": "com.example.HCITeam18.FoodBuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608180303975-kq4p0bundmlbgr6kh5tnl5nttjl4r791.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVV2qg--3ywDV9GoQj86F_1ssRBh66XsE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
